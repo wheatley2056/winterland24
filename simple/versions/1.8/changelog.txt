@@ -1,0 +1,4 @@
++ Adding support with Modpack Update Check
++ Update background, music
++ Update Credits
++ Story Updates
