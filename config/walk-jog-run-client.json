@@ -1,7 +1,0 @@
-{
-  "iconPosition": "HOTBAR",
-  "showStaminaInIcon": true,
-  "showStaminaInHungerBar": true,
-  "hungerBarStaminaColor": "#4e4e4e",
-  "hungerBarColorState": "STAMINA_DEPLETED"
-}
